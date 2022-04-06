@@ -1,2 +1,7 @@
 # MechaCar_Statistical_Analysis
-module_15
+## Overview (purpose/background)
+## Results
+## Summary
+### Linear Regression to Predict MPG
+### Summary Statistics on Suspension Coils
+### T-tests on Suspension Coils
