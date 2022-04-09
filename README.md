@@ -24,3 +24,8 @@ Across all manufacturing lots, we can see from the p-value being greater than 0.
 
 In lots 2 and 3, we can see from the p-value being greater than 0.05 that there is not a statistical difference in PSI from the population mean of 1500psi. However, in lot 3 we can see that there *is* a statistical difference in PSI from the population mean of 1500psi.
 ## Study Design: MechaCar vs Competition
+In a study to compare MechaCar to its competing maufacturers, I would test the vehicles miles per gallon. I would do this between a prototype of MechaCar and a comprable model of its competitor. For example, comparing MechaCar's sedan model to the competitor's sedan model; I would not compare a sedan to an SUV. The hypotheses would be as follows:
+- Null Hypothesis: There will be no significant difference in miles per gallon between MechaCar and its competetitor's comprable model.
+- Alternative Hypothesis: MechaCar's model will have significantly more miles to the gallon than its competitor's comprable model.
+
+I would use a two-tailed t-test to test this hypothesis. This is because I am testing whether two different samples are statistically different. To run this test, I need data on how many gallons it takes each of the vehicles to go the same distance.
